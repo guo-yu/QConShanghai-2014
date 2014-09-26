@@ -2,6 +2,26 @@
 
 ![QconShanghai 2014](http://2014.qconshanghai.com/download/qconshanghai2014.jpg)
 
+### 议程大纲
+
+- Airpub 简单介绍
+- 前端鉴权：
+  - 如何进行前端鉴权与第三方登录
+  - `JWT` 鉴权体系介绍
+  - `JWT` 与安全风险
+- 前端模块化：
+  - Angular.js App 的文件组织与模块化
+  - 前端模块入口碎片化的问题及对策
+  - 工作流与模块化，浅谈基于 NPM 的工作流与资源重定向
+  - 模板主题模块化，浅谈 CORS
+- 后端接口
+  - 逻辑抽象与接口实现
+- 编辑器开发与前端渲染
+  - 浅谈 Markdown 与所见即所得编辑器
+  - 自定义 Markdown 前端渲染实践
+-  纯前端应用SEO相关问题
+   - Web App 的 SEO 实践
+
 ### MIT license
 Copyright (c) 2014 turing &lt;o.u.turing@Gmail.com&gt;
 
